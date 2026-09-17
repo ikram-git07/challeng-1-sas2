@@ -6,3 +6,4 @@ if ( nbr % 2 === 0 ){
 }else 
 { console.log ('le nombre ${nbr} est impaire.');
 }
+  
